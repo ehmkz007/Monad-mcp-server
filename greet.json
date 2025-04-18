@@ -1,0 +1,5 @@
+
+{
+  "description": "Greet the user",
+  "prompt": "Say hello to {{name}}."
+}
